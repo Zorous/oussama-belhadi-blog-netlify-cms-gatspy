@@ -1,24 +1,18 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Welcome to my Personal Blog
+image: /img/andrew-neel-cckf4tshauw-unsplash.jpg
+heading: Currently i'm focusing heavily on Web Development
+subheading: where you could find all my news
 mainpitch:
-  title: Why Oussama
-  description: >
-    Oussama is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Oussama is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: What will you find on my Blog?
+  description: My latest projects, Reviewing the famous development tools, daily
+    debugging, nightmares and more
+description: i've learned so many modern tools and useful frameworks and i'm
+  trying to make a use of my set of hard-skills.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/coffee-gear.png
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
@@ -60,11 +54,11 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/lauren-mancke-aoc7tslb1o8-unsplash.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/thought-catalog-505eectw54k-unsplash.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: Morning coffee
+    image: /img/nick-morrison-fhnnjk1yj7y-unsplash.jpg
 ---
